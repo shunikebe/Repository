@@ -9,7 +9,7 @@
     <Grid Loaded="Load">
         <Label x:Name="labelM" Content="Label1" Margin="25.569,77.526,88.91,0" VerticalAlignment="Top" Background="{x:Null}"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="25.569,40.96,0,0" TextWrapping="Wrap" Text="TextBox" Width="120" Height="23" VerticalAlignment="Top"/>
-        <Button x:Name="button" Content="ABC" HorizontalAlignment="Left" Margin="25.569,120.698,0,0" VerticalAlignment="Top" Width="75" FontFamily="Wide Latin" Click="ABC_Click"/>
+        <Button x:Name="button" Content="OK" HorizontalAlignment="Left" Margin="25.569,120.698,0,0" VerticalAlignment="Top" Width="75" FontFamily="Wide Latin" Click="ABC_Click"/>
         <Label x:Name="labelM_Copy" Content="名前を入れてください" Margin="25.569,10,88.91,0" VerticalAlignment="Top" Background="{x:Null}"/>
 
     </Grid>
