@@ -28,7 +28,7 @@ namespace WpfApplication1
         //ABCを押したときの処理
         private void ABC_Click(object sender, RoutedEventArgs e)
         {
-            //ラベルにテキストボックスのテキストを表示する
+            //ラベルにテキストボックスのテキストを表示するsdsdss
             labelM.Content = textBox.Text + "さん　こんにちは";
            
         }
