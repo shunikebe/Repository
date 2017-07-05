@@ -1,0 +1,9 @@
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\bin\Debug\ControlCheck.exe.config
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\bin\Debug\ControlCheck.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\bin\Debug\ControlCheck.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.csprojResolveAssemblyReference.cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.Form1.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.Properties.Resources.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.csproj.GenerateResource.Cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.pdb
