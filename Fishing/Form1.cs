@@ -76,9 +76,9 @@ namespace Fishing
                 }
 
                 //ポイントの描写
-                label1.Text = "point : " + point;
+                label1.Text = "得点 : " + point;
                 //残り時間
-                label2.Text = "time : " +(int)( Acount * 16 / 1000);
+                label2.Text = "残り時間 : " +(int)(60 - Acount * 16 / 1000) + "秒";
 
             }
         }
