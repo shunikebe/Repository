@@ -1,0 +1,6 @@
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Guess\Guess\bin\Debug\Guess.exe.config
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Guess\Guess\bin\Debug\Guess.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Guess\Guess\bin\Debug\Guess.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Guess\Guess\obj\Debug\Guess.csprojResolveAssemblyReference.cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Guess\Guess\obj\Debug\Guess.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Guess\Guess\obj\Debug\Guess.pdb

@@ -1,0 +1,9 @@
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\bin\Debug\InsectCollecting.exe.config
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\bin\Debug\InsectCollecting.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\bin\Debug\InsectCollecting.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\obj\Debug\InsectCollecting.csprojResolveAssemblyReference.cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\obj\Debug\InsectCollecting.Form1.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\obj\Debug\InsectCollecting.Properties.Resources.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\obj\Debug\InsectCollecting.csproj.GenerateResource.Cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\obj\Debug\InsectCollecting.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\InsectCollecting\InsectCollecting\obj\Debug\InsectCollecting.pdb

@@ -1,0 +1,9 @@
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\bin\Debug\Fishing.exe.config
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\bin\Debug\Fishing.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\bin\Debug\Fishing.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\obj\Debug\Fishing.csprojResolveAssemblyReference.cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\obj\Debug\Fishing.Form1.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\obj\Debug\Fishing.Properties.Resources.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\obj\Debug\Fishing.csproj.GenerateResource.Cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\obj\Debug\Fishing.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\Fishing\Fishing\obj\Debug\Fishing.pdb

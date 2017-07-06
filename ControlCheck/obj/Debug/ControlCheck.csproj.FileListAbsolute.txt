@@ -7,3 +7,6 @@ c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCh
 c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.csproj.GenerateResource.Cache
 c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.exe
 c:\users\shun.ikebe\documents\visual studio 2015\Projects\ControlCheck\ControlCheck\obj\Debug\ControlCheck.pdb
+C:\Git\Repository\ControlCheck\bin\Debug\ControlCheck.exe.config
+C:\Git\Repository\ControlCheck\obj\Debug\ControlCheck.exe
+C:\Git\Repository\ControlCheck\obj\Debug\ControlCheck.pdb

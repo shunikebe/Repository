@@ -1,0 +1,9 @@
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\bin\Debug\CardWar.exe.config
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\bin\Debug\CardWar.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\bin\Debug\CardWar.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\obj\Debug\CardWar.csprojResolveAssemblyReference.cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\obj\Debug\CardWar.Form1.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\obj\Debug\CardWar.Properties.Resources.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\obj\Debug\CardWar.csproj.GenerateResource.Cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\obj\Debug\CardWar.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\CardWar\CardWar\obj\Debug\CardWar.pdb
