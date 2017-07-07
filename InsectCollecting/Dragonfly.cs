@@ -37,6 +37,7 @@ namespace InsectCollecting{
             base.Visible = false;
             base.Location = new Point(0, 0);
             mflag = false;
+            cflag = false;
         }
 
 

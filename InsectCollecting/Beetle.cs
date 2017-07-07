@@ -62,6 +62,7 @@ namespace InsectCollecting
             base.Visible = false;
             base.Location = new Point(Form1.lx - base.Image.Width, Form1.ly - base.Image.Height);
             mflag = false;
+            cflag = false;
             dnum = 0;
         }
 
