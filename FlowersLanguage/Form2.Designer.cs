@@ -33,7 +33,7 @@
             this.cancel = new System.Windows.Forms.Button();
             this.delete = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.flower = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.color = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.color = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.language = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.list)).BeginInit();
             this.SuspendLayout();
@@ -89,7 +89,17 @@
             // color
             // 
             this.color.HeaderText = "色";
+            this.color.Items.AddRange(new object[] {
+            "赤",
+            "白",
+            "ピンク",
+            "黄",
+            "紫",
+            "青",
+            "黒"});
             this.color.Name = "color";
+            this.color.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.color.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             this.color.Width = 40;
             // 
             // language
@@ -121,7 +131,7 @@
         private System.Windows.Forms.Button cancel;
         private System.Windows.Forms.DataGridViewTextBoxColumn delete;
         private System.Windows.Forms.DataGridViewTextBoxColumn flower;
-        private System.Windows.Forms.DataGridViewTextBoxColumn color;
+        private System.Windows.Forms.DataGridViewComboBoxColumn color;
         private System.Windows.Forms.DataGridViewTextBoxColumn language;
     }
 }
