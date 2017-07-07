@@ -1,0 +1,10 @@
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\bin\Debug\FlowersLanguage.exe.config
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\bin\Debug\FlowersLanguage.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\bin\Debug\FlowersLanguage.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.csprojResolveAssemblyReference.cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.Form1.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.Properties.Resources.resources
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.csproj.GenerateResource.Cache
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.exe
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.pdb
+c:\users\shun.ikebe\documents\visual studio 2015\Projects\FlowersLanguage\FlowersLanguage\obj\Debug\FlowersLanguage.Form2.resources
